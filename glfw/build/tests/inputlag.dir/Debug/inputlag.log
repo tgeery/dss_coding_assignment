@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/tests/CMakeLists.txt
+  inputlag.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  inputlag.vcxproj -> C:\Users\tpgee\OneDrive\Desktop\glfw-master\glfw-master\build\tests\Debug\inputlag.exe

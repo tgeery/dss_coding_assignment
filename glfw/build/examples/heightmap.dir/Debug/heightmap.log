@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/examples/CMakeLists.txt
+  heightmap.c
+  glad_gl.c
+  Generating Code...
+  heightmap.vcxproj -> C:\Users\tpgee\OneDrive\Desktop\glfw-master\glfw-master\build\examples\Debug\heightmap.exe

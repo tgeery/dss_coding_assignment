@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/tests/CMakeLists.txt
+  timeout.c
+  glad_gl.c
+  Generating Code...
+  timeout.vcxproj -> C:\Users\tpgee\OneDrive\Desktop\glfw-master\glfw-master\build\tests\Debug\timeout.exe

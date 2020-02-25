@@ -1,0 +1,10 @@
+^C:\USERS\TPGEE\ONEDRIVE\DESKTOP\GLFW-MASTER\GLFW-MASTER\BUILD\CMAKEFILES\7EE5C4AFE77CD410321C27B46A79AE31\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master -BC:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

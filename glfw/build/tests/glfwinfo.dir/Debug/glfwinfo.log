@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/tests/CMakeLists.txt
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Generating Code...
+  glfwinfo.vcxproj -> C:\Users\tpgee\OneDrive\Desktop\glfw-master\glfw-master\build\tests\Debug\glfwinfo.exe

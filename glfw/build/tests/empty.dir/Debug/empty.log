@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/tests/CMakeLists.txt
+  empty.c
+  tinycthread.c
+  glad_gl.c
+  Generating Code...
+  empty.vcxproj -> C:\Users\tpgee\OneDrive\Desktop\glfw-master\glfw-master\build\tests\Debug\empty.exe

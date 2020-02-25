@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/tests/CMakeLists.txt
+  clipboard.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  clipboard.vcxproj -> C:\Users\tpgee\OneDrive\Desktop\glfw-master\glfw-master\build\tests\Debug\clipboard.exe

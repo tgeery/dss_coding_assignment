@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/tpgee/OneDrive/Desktop/glfw-master/glfw-master/examples/CMakeLists.txt
+  wave.c
+  glad_gl.c
+  Generating Code...
+  wave.vcxproj -> C:\Users\tpgee\OneDrive\Desktop\glfw-master\glfw-master\build\examples\Debug\wave.exe
